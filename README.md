@@ -45,3 +45,4 @@ To view properly download it and zoom it.
 ## Instruction for running app
 1. Install all the requirements from requirement.txt
 2. Clone the repository and use 'python manage.py runserver' to run it on localhost.
+3. Download Glove vector embeddings in narration/dataset/
